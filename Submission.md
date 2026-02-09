@@ -56,10 +56,11 @@ If an invalid coupon is given
 
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? (Yes / No)
-- GitHub Actions Run URL:
+- GitHub Actions Run URL: https://github.com/MeetRamatri/jest-workshop/actions/runs/21825455094
 
 ---
 
 ## Reflection (1–2 lines)
 What is **one thing** you understood better about testing or CI after this workshop?
 
+I understood how to use jest and how to implement it in real life.
