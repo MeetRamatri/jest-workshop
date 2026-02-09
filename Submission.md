@@ -39,10 +39,10 @@ Check if FLAT50 coupon is given
 
 ---
 
-### 5. Test Name: Check for invalid coupon
+### 5. Test Name: Case insensitive
 **What it protects against:**  
 
-If an invalid coupon is given
+If even in case insensitive, it should still work
 
 ---
 
