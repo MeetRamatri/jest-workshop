@@ -18,28 +18,21 @@ Check for NAN subtotal or less than 0
 
 ---
 
-### 2. Test Name: More than 1000 subtotal
-**What it protects against:**  
-
-Check if subtotal is more than or equal to 1000
-
----
-
-### 3. Test Name: Not Coupon
+### 2. Test Name: Not Coupon
 **What it protects against:**  
 
 Check if no coupon is given
 
 ---
 
-### 4. Test Name: Save10 Coupon
+### 3. Test Name: Save10 Coupon
 **What it protects against:** 
 
 If SAVE10 coupon is given
 
 ---
 
-### 5. Test Name: Flat50 Coupon 
+### 4. Test Name: Flat50 Coupon 
 **What it protects against:** 
 
 Check if FLAT50 coupon is given
